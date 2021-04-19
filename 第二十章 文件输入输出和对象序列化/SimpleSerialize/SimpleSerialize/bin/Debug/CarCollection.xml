@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfJamesBondCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <JamesBondCar canFly="true">
+    <theRadio xmlns="http://MyCompany.com">
+      <hasTweeters>false</hasTweeters>
+      <hasSubWoofers>false</hasSubWoofers>
+      <radioID>XF-552RR6</radioID>
+    </theRadio>
+    <isHatchBack xmlns="http://MyCompany.com">false</isHatchBack>
+    <canSubMerge xmlns="http://MyCompany.com">false</canSubMerge>
+  </JamesBondCar>
+  <JamesBondCar canFly="true">
+    <theRadio xmlns="http://MyCompany.com">
+      <hasTweeters>false</hasTweeters>
+      <hasSubWoofers>false</hasSubWoofers>
+      <radioID>XF-552RR6</radioID>
+    </theRadio>
+    <isHatchBack xmlns="http://MyCompany.com">false</isHatchBack>
+    <canSubMerge xmlns="http://MyCompany.com">true</canSubMerge>
+  </JamesBondCar>
+  <JamesBondCar canFly="false">
+    <theRadio xmlns="http://MyCompany.com">
+      <hasTweeters>false</hasTweeters>
+      <hasSubWoofers>false</hasSubWoofers>
+      <radioID>XF-552RR6</radioID>
+    </theRadio>
+    <isHatchBack xmlns="http://MyCompany.com">false</isHatchBack>
+    <canSubMerge xmlns="http://MyCompany.com">false</canSubMerge>
+  </JamesBondCar>
+  <JamesBondCar canFly="false">
+    <theRadio xmlns="http://MyCompany.com">
+      <hasTweeters>false</hasTweeters>
+      <hasSubWoofers>false</hasSubWoofers>
+      <radioID>XF-552RR6</radioID>
+    </theRadio>
+    <isHatchBack xmlns="http://MyCompany.com">false</isHatchBack>
+    <canSubMerge xmlns="http://MyCompany.com">true</canSubMerge>
+  </JamesBondCar>
+</ArrayOfJamesBondCar>

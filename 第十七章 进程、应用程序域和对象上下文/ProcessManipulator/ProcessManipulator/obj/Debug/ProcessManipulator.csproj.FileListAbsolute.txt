@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.pdb

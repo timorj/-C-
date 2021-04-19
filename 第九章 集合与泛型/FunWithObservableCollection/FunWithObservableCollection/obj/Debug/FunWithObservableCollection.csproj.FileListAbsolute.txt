@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\FunWithObservableCollection\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\FunWithObservableCollection\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\FunWithObservableCollection\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\FunWithObservableCollection\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\FunWithObservableCollection\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\FunWithObservableCollection\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\FunWithObservableCollection\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.csprojAssemblyReference.cache

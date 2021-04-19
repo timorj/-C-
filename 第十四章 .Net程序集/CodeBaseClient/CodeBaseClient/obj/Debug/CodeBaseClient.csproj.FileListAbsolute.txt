@@ -1,0 +1,9 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CodeBaseClient\CodeBaseClient\bin\Debug\CodeBaseClient.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CodeBaseClient\CodeBaseClient\bin\Debug\CodeBaseClient.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CodeBaseClient\CodeBaseClient\bin\Debug\CodeBaseClient.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CodeBaseClient\CodeBaseClient\bin\Debug\CarLibrary.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CodeBaseClient\CodeBaseClient\obj\Debug\CodeBaseClient.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CodeBaseClient\CodeBaseClient\obj\Debug\CodeBaseClient.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CodeBaseClient\CodeBaseClient\obj\Debug\CodeBaseClient.csproj.CopyComplete
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CodeBaseClient\CodeBaseClient\obj\Debug\CodeBaseClient.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CodeBaseClient\CodeBaseClient\obj\Debug\CodeBaseClient.pdb

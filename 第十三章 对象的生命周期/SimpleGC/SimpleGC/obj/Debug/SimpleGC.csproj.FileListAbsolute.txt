@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\SimpleGC\SimpleGC\bin\Debug\SimpleGC.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\SimpleGC\SimpleGC\obj\Debug\SimpleGC.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\SimpleGC\SimpleGC\obj\Debug\SimpleGC.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\SimpleGC\SimpleGC\obj\Debug\SimpleGC.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\SimpleGC\SimpleGC\obj\Debug\SimpleGC.pdb

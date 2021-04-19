@@ -1,0 +1,10 @@
+C:\Users\hands\source\repos\第十九章\MyEBookReader\MyEBookReader\bin\Debug\MyEBookReader.exe.config
+C:\Users\hands\source\repos\第十九章\MyEBookReader\MyEBookReader\bin\Debug\MyEBookReader.exe
+C:\Users\hands\source\repos\第十九章\MyEBookReader\MyEBookReader\bin\Debug\MyEBookReader.pdb
+C:\Users\hands\source\repos\第十九章\MyEBookReader\MyEBookReader\obj\Debug\MyEBookReader.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\第十九章\MyEBookReader\MyEBookReader\obj\Debug\MyEBookReader.MainForm.resources
+C:\Users\hands\source\repos\第十九章\MyEBookReader\MyEBookReader\obj\Debug\MyEBookReader.Properties.Resources.resources
+C:\Users\hands\source\repos\第十九章\MyEBookReader\MyEBookReader\obj\Debug\MyEBookReader.csproj.GenerateResource.cache
+C:\Users\hands\source\repos\第十九章\MyEBookReader\MyEBookReader\obj\Debug\MyEBookReader.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\第十九章\MyEBookReader\MyEBookReader\obj\Debug\MyEBookReader.exe
+C:\Users\hands\source\repos\第十九章\MyEBookReader\MyEBookReader\obj\Debug\MyEBookReader.pdb

@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarEvents\CarEvents\bin\Debug\CarEvents.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarEvents\CarEvents\bin\Debug\CarEvents.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarEvents\CarEvents\bin\Debug\CarEvents.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarEvents\CarEvents\obj\Debug\CarEvents.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarEvents\CarEvents\obj\Debug\CarEvents.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarEvents\CarEvents\obj\Debug\CarEvents.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarEvents\CarEvents\obj\Debug\CarEvents.pdb

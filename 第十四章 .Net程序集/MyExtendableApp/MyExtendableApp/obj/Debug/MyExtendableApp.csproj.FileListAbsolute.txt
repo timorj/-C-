@@ -1,0 +1,13 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\MyExtendableApp\MyExtendableApp\bin\Debug\MyExtendableApp.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\MyExtendableApp\MyExtendableApp\bin\Debug\MyExtendableApp.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\MyExtendableApp\MyExtendableApp\bin\Debug\MyExtendableApp.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\MyExtendableApp\MyExtendableApp\bin\Debug\CommonSnappableTypes.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\MyExtendableApp\MyExtendableApp\bin\Debug\CommonSnappableTypes.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.Form1.resources
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.Properties.Resources.resources
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.csproj.GenerateResource.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.csproj.CopyComplete
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.pdb

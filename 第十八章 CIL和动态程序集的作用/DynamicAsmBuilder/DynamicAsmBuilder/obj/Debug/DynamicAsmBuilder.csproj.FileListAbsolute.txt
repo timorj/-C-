@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十八章\DynamicAsmBuilder\DynamicAsmBuilder\bin\Debug\DynamicAsmBuilder.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十八章\DynamicAsmBuilder\DynamicAsmBuilder\bin\Debug\DynamicAsmBuilder.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十八章\DynamicAsmBuilder\DynamicAsmBuilder\bin\Debug\DynamicAsmBuilder.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十八章\DynamicAsmBuilder\DynamicAsmBuilder\obj\Debug\DynamicAsmBuilder.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十八章\DynamicAsmBuilder\DynamicAsmBuilder\obj\Debug\DynamicAsmBuilder.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十八章\DynamicAsmBuilder\DynamicAsmBuilder\obj\Debug\DynamicAsmBuilder.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十八章\DynamicAsmBuilder\DynamicAsmBuilder\obj\Debug\DynamicAsmBuilder.pdb

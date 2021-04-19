@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.pdb

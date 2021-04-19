@@ -1,0 +1,10 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AdoNetTransaction\AdoNetTransaction\bin\Debug\AdoNetTransaction.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AdoNetTransaction\AdoNetTransaction\bin\Debug\AdoNetTransaction.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AdoNetTransaction\AdoNetTransaction\bin\Debug\AdoNetTransaction.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AdoNetTransaction\AdoNetTransaction\bin\Debug\AutoLotDataAccessLayer.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AdoNetTransaction\AdoNetTransaction\bin\Debug\AutoLotDataAccessLayer.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.csproj.CopyComplete
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.csprojAssemblyReference.cache

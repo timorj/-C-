@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.pdb

@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.pdb

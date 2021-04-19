@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqOverStrings\LinqOverStrings\bin\Debug\LinqOverStrings.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqOverStrings\LinqOverStrings\bin\Debug\LinqOverStrings.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqOverStrings\LinqOverStrings\bin\Debug\LinqOverStrings.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqOverStrings\LinqOverStrings\obj\Debug\LinqOverStrings.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqOverStrings\LinqOverStrings\obj\Debug\LinqOverStrings.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqOverStrings\LinqOverStrings\obj\Debug\LinqOverStrings.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqOverStrings\LinqOverStrings\obj\Debug\LinqOverStrings.pdb

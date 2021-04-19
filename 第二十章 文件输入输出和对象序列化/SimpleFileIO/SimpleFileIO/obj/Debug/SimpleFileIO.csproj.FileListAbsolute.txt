@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\SimpleFileIO\SimpleFileIO\bin\Debug\SimpleFileIO.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\SimpleFileIO\SimpleFileIO\bin\Debug\SimpleFileIO.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\SimpleFileIO\SimpleFileIO\bin\Debug\SimpleFileIO.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\SimpleFileIO\SimpleFileIO\obj\Debug\SimpleFileIO.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\SimpleFileIO\SimpleFileIO\obj\Debug\SimpleFileIO.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\SimpleFileIO\SimpleFileIO\obj\Debug\SimpleFileIO.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\SimpleFileIO\SimpleFileIO\obj\Debug\SimpleFileIO.pdb

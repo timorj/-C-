@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.pdb

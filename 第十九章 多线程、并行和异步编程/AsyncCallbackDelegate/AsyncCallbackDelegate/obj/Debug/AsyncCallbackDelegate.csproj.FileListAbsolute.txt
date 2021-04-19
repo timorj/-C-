@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\第十九章\AsyncCallbackDelegate\AsyncCallbackDelegate\bin\Debug\AsyncCallbackDelegate.exe.config
+C:\Users\hands\source\repos\第十九章\AsyncCallbackDelegate\AsyncCallbackDelegate\bin\Debug\AsyncCallbackDelegate.exe
+C:\Users\hands\source\repos\第十九章\AsyncCallbackDelegate\AsyncCallbackDelegate\bin\Debug\AsyncCallbackDelegate.pdb
+C:\Users\hands\source\repos\第十九章\AsyncCallbackDelegate\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\第十九章\AsyncCallbackDelegate\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.exe
+C:\Users\hands\source\repos\第十九章\AsyncCallbackDelegate\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.pdb
+C:\Users\hands\source\repos\第十九章\AsyncCallbackDelegate\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\hands\source\repos\第十六章\ExporDataToOfficeApp\ExporDataToOfficeApp\obj\Debug\ExporDataToOfficeApp.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\第十六章\ExporDataToOfficeApp\ExporDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.Form1.resources
+C:\Users\hands\source\repos\第十六章\ExporDataToOfficeApp\ExporDataToOfficeApp\obj\Debug\ExporDataToOfficeApp.NewCarDialog.resources
+C:\Users\hands\source\repos\第十六章\ExporDataToOfficeApp\ExporDataToOfficeApp\obj\Debug\ExporDataToOfficeApp.Properties.Resources.resources
+C:\Users\hands\source\repos\第十六章\ExporDataToOfficeApp\ExporDataToOfficeApp\obj\Debug\ExporDataToOfficeApp.csproj.GenerateResource.cache
+C:\Users\hands\source\repos\第十六章\ExporDataToOfficeApp\ExporDataToOfficeApp\obj\Debug\ExporDataToOfficeApp.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\第十六章\ExporDataToOfficeApp\ExporDataToOfficeApp\bin\Debug\ExporDataToOfficeApp.exe.config
+C:\Users\hands\source\repos\第十六章\ExporDataToOfficeApp\ExporDataToOfficeApp\bin\Debug\ExporDataToOfficeApp.exe
+C:\Users\hands\source\repos\第十六章\ExporDataToOfficeApp\ExporDataToOfficeApp\bin\Debug\ExporDataToOfficeApp.pdb
+C:\Users\hands\source\repos\第十六章\ExporDataToOfficeApp\ExporDataToOfficeApp\obj\Debug\ExporDataToOfficeApp.exe
+C:\Users\hands\source\repos\第十六章\ExporDataToOfficeApp\ExporDataToOfficeApp\obj\Debug\ExporDataToOfficeApp.pdb

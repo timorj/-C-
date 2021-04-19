@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

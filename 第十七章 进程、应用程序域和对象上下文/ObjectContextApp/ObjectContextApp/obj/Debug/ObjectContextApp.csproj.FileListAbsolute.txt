@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\ObjectContextApp\ObjectContextApp\bin\Debug\ObjectContextApp.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\ObjectContextApp\ObjectContextApp\bin\Debug\ObjectContextApp.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\ObjectContextApp\ObjectContextApp\bin\Debug\ObjectContextApp.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\ObjectContextApp\ObjectContextApp\obj\Debug\ObjectContextApp.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\ObjectContextApp\ObjectContextApp\obj\Debug\ObjectContextApp.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\ObjectContextApp\ObjectContextApp\obj\Debug\ObjectContextApp.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\ObjectContextApp\ObjectContextApp\obj\Debug\ObjectContextApp.pdb

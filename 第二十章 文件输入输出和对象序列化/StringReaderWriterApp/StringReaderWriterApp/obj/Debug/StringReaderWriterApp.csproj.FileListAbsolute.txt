@@ -1,0 +1,6 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\StringReaderWriterApp\StringReaderWriterApp\bin\Debug\StringReaderWriterApp.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\StringReaderWriterApp\StringReaderWriterApp\bin\Debug\StringReaderWriterApp.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\StringReaderWriterApp\StringReaderWriterApp\bin\Debug\StringReaderWriterApp.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\StringReaderWriterApp\StringReaderWriterApp\obj\Debug\StringReaderWriterApp.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\StringReaderWriterApp\StringReaderWriterApp\obj\Debug\StringReaderWriterApp.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\StringReaderWriterApp\StringReaderWriterApp\obj\Debug\StringReaderWriterApp.pdb

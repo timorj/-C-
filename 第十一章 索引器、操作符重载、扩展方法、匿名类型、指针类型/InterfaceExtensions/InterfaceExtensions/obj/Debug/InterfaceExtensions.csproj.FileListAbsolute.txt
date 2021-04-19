@@ -1,0 +1,6 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十一章\InterfaceExtensions\InterfaceExtensions\bin\Debug\InterfaceExtensions.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十一章\InterfaceExtensions\InterfaceExtensions\bin\Debug\InterfaceExtensions.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十一章\InterfaceExtensions\InterfaceExtensions\bin\Debug\InterfaceExtensions.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十一章\InterfaceExtensions\InterfaceExtensions\obj\Debug\InterfaceExtensions.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十一章\InterfaceExtensions\InterfaceExtensions\obj\Debug\InterfaceExtensions.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十一章\InterfaceExtensions\InterfaceExtensions\obj\Debug\InterfaceExtensions.pdb

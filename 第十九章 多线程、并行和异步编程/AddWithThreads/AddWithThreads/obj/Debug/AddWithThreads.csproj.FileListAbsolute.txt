@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\第十九章\AddWithThreads\AddWithThreads\bin\Debug\AddWithThreads.exe.config
+C:\Users\hands\source\repos\第十九章\AddWithThreads\AddWithThreads\bin\Debug\AddWithThreads.exe
+C:\Users\hands\source\repos\第十九章\AddWithThreads\AddWithThreads\bin\Debug\AddWithThreads.pdb
+C:\Users\hands\source\repos\第十九章\AddWithThreads\AddWithThreads\obj\Debug\AddWithThreads.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\第十九章\AddWithThreads\AddWithThreads\obj\Debug\AddWithThreads.exe
+C:\Users\hands\source\repos\第十九章\AddWithThreads\AddWithThreads\obj\Debug\AddWithThreads.pdb
+C:\Users\hands\source\repos\第十九章\AddWithThreads\AddWithThreads\obj\Debug\AddWithThreads.csprojAssemblyReference.cache

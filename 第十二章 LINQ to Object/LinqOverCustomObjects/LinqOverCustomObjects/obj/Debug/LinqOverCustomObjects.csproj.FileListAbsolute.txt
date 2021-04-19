@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqOverCustomObjects\LinqOverCustomObjects\bin\Debug\LinqOverCustomObjects.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqOverCustomObjects\LinqOverCustomObjects\bin\Debug\LinqOverCustomObjects.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqOverCustomObjects\LinqOverCustomObjects\bin\Debug\LinqOverCustomObjects.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqOverCustomObjects\LinqOverCustomObjects\obj\Debug\LinqOverCustomObjects.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqOverCustomObjects\LinqOverCustomObjects\obj\Debug\LinqOverCustomObjects.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqOverCustomObjects\LinqOverCustomObjects\obj\Debug\LinqOverCustomObjects.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqOverCustomObjects\LinqOverCustomObjects\obj\Debug\LinqOverCustomObjects.pdb

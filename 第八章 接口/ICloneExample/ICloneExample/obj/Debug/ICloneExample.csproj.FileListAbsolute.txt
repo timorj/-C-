@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\ICloneExample\ICloneExample\bin\Debug\ICloneExample.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\ICloneExample\ICloneExample\bin\Debug\ICloneExample.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\ICloneExample\ICloneExample\bin\Debug\ICloneExample.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\ICloneExample\ICloneExample\obj\Debug\ICloneExample.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\ICloneExample\ICloneExample\obj\Debug\ICloneExample.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\ICloneExample\ICloneExample\obj\Debug\ICloneExample.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\ICloneExample\ICloneExample\obj\Debug\ICloneExample.pdb

@@ -1,0 +1,6 @@
+C:\Users\hands\source\repos\第十六章\LateBinding-WithDynamic\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\hands\source\repos\第十六章\LateBinding-WithDynamic\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\hands\source\repos\第十六章\LateBinding-WithDynamic\MathLibrary\obj\Debug\MathLibrary.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\第十六章\LateBinding-WithDynamic\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\第十六章\LateBinding-WithDynamic\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\hands\source\repos\第十六章\LateBinding-WithDynamic\MathLibrary\obj\Debug\MathLibrary.pdb

@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\MyConnectionFactory\MyConnectionFactory\bin\Debug\MyConnectionFactory.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\MyConnectionFactory\MyConnectionFactory\bin\Debug\MyConnectionFactory.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\MyConnectionFactory\MyConnectionFactory\bin\Debug\MyConnectionFactory.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\MyConnectionFactory\MyConnectionFactory\obj\Debug\MyConnectionFactory.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\MyConnectionFactory\MyConnectionFactory\obj\Debug\MyConnectionFactory.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\MyConnectionFactory\MyConnectionFactory\obj\Debug\MyConnectionFactory.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\MyConnectionFactory\MyConnectionFactory\obj\Debug\MyConnectionFactory.pdb

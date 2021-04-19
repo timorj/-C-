@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\第十九章\SimpleMultiThreadApp\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\第十九章\SimpleMultiThreadApp\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\第十九章\SimpleMultiThreadApp\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.exe.config
+C:\Users\hands\source\repos\第十九章\SimpleMultiThreadApp\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.exe
+C:\Users\hands\source\repos\第十九章\SimpleMultiThreadApp\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.pdb
+C:\Users\hands\source\repos\第十九章\SimpleMultiThreadApp\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.exe
+C:\Users\hands\source\repos\第十九章\SimpleMultiThreadApp\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.pdb

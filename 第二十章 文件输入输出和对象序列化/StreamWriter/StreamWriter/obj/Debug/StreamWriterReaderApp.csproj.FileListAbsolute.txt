@@ -1,0 +1,6 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\StreamWriter\StreamWriter\bin\Debug\StreamWriter.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\StreamWriter\StreamWriter\obj\Debug\StreamWriterReaderApp.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\StreamWriter\StreamWriter\obj\Debug\StreamWriter.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\StreamWriter\StreamWriter\obj\Debug\StreamWriter.pdb

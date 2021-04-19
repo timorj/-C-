@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\SharedAsmReflector\SharedAsmReflector\bin\Debug\SharedAsmReflector.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\SharedAsmReflector\SharedAsmReflector\bin\Debug\SharedAsmReflector.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\SharedAsmReflector\SharedAsmReflector\bin\Debug\SharedAsmReflector.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\SharedAsmReflector\SharedAsmReflector\obj\Debug\SharedAsmReflector.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\SharedAsmReflector\SharedAsmReflector\obj\Debug\SharedAsmReflector.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\SharedAsmReflector\SharedAsmReflector\obj\Debug\SharedAsmReflector.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\SharedAsmReflector\SharedAsmReflector\obj\Debug\SharedAsmReflector.pdb

@@ -1,0 +1,9 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpSnapIn\CSharpSnapIn\bin\Debug\CSharpSnapIn.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpSnapIn\CSharpSnapIn\bin\Debug\CSharpSnapIn.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpSnapIn\CSharpSnapIn\bin\Debug\CommonSnappableTypes.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpSnapIn\CSharpSnapIn\bin\Debug\CommonSnappableTypes.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpSnapIn\CSharpSnapIn\obj\Debug\CSharpSnapIn.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpSnapIn\CSharpSnapIn\obj\Debug\CSharpSnapIn.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpSnapIn\CSharpSnapIn\obj\Debug\CSharpSnapIn.csproj.CopyComplete
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpSnapIn\CSharpSnapIn\obj\Debug\CSharpSnapIn.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpSnapIn\CSharpSnapIn\obj\Debug\CSharpSnapIn.pdb

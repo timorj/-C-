@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\第十九章\TimerApp\TimerApp\bin\Debug\TimerApp.exe.config
+C:\Users\hands\source\repos\第十九章\TimerApp\TimerApp\bin\Debug\TimerApp.exe
+C:\Users\hands\source\repos\第十九章\TimerApp\TimerApp\bin\Debug\TimerApp.pdb
+C:\Users\hands\source\repos\第十九章\TimerApp\TimerApp\obj\Debug\TimerApp.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\第十九章\TimerApp\TimerApp\obj\Debug\TimerApp.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\第十九章\TimerApp\TimerApp\obj\Debug\TimerApp.exe
+C:\Users\hands\source\repos\第十九章\TimerApp\TimerApp\obj\Debug\TimerApp.pdb

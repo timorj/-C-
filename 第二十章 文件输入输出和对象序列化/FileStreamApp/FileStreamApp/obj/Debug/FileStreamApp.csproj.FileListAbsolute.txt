@@ -1,0 +1,6 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\FileStreamApp\FileStreamApp\bin\Debug\FileStreamApp.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\FileStreamApp\FileStreamApp\bin\Debug\FileStreamApp.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\FileStreamApp\FileStreamApp\bin\Debug\FileStreamApp.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\FileStreamApp\FileStreamApp\obj\Debug\FileStreamApp.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\FileStreamApp\FileStreamApp\obj\Debug\FileStreamApp.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\FileStreamApp\FileStreamApp\obj\Debug\FileStreamApp.pdb

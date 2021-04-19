@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\精通CSharp第六版\bin\Debug\精通CSharp第六版.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\精通CSharp第六版\bin\Debug\精通CSharp第六版.exe
+C:\Users\hands\source\repos\精通CSharp第六版\精通CSharp第六版\bin\Debug\精通CSharp第六版.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\精通CSharp第六版\obj\Debug\ReferenceEqual.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\精通CSharp第六版\obj\Debug\ReferenceEqual.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\精通CSharp第六版\obj\Debug\精通CSharp第六版.exe
+C:\Users\hands\source\repos\精通CSharp第六版\精通CSharp第六版\obj\Debug\精通CSharp第六版.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicAsmBuilder", "DynamicAsmBuilder\DynamicAsmBuilder.csproj", "{4C41CB9F-7539-4FBC-8BD0-BB44A1CC81F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C41CB9F-7539-4FBC-8BD0-BB44A1CC81F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C41CB9F-7539-4FBC-8BD0-BB44A1CC81F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C41CB9F-7539-4FBC-8BD0-BB44A1CC81F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C41CB9F-7539-4FBC-8BD0-BB44A1CC81F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF72499E-4C15-4647-9CDD-8184FD70658A}
+	EndGlobalSection
+EndGlobal

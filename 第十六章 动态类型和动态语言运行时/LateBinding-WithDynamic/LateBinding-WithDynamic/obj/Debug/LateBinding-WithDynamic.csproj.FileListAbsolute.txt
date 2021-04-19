@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\第十六章\LateBinding-WithDynamic\LateBinding-WithDynamic\bin\Debug\LateBinding-WithDynamic.exe.config
+C:\Users\hands\source\repos\第十六章\LateBinding-WithDynamic\LateBinding-WithDynamic\bin\Debug\LateBinding-WithDynamic.exe
+C:\Users\hands\source\repos\第十六章\LateBinding-WithDynamic\LateBinding-WithDynamic\bin\Debug\LateBinding-WithDynamic.pdb
+C:\Users\hands\source\repos\第十六章\LateBinding-WithDynamic\LateBinding-WithDynamic\obj\Debug\LateBinding-WithDynamic.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\第十六章\LateBinding-WithDynamic\LateBinding-WithDynamic\obj\Debug\LateBinding-WithDynamic.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\第十六章\LateBinding-WithDynamic\LateBinding-WithDynamic\obj\Debug\LateBinding-WithDynamic.exe
+C:\Users\hands\source\repos\第十六章\LateBinding-WithDynamic\LateBinding-WithDynamic\obj\Debug\LateBinding-WithDynamic.pdb

@@ -1,0 +1,14 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.xml
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\CarLibrary.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\CarLibrary.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.Resources.resources
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbproj.GenerateResource.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbproj.CopyComplete
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.xml
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.pdb

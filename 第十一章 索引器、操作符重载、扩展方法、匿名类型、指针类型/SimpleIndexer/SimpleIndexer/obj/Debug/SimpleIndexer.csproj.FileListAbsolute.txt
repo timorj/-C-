@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十一章\SimpleIndexer\SimpleIndexer\bin\Debug\SimpleIndexer.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十一章\SimpleIndexer\SimpleIndexer\bin\Debug\SimpleIndexer.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十一章\SimpleIndexer\SimpleIndexer\bin\Debug\SimpleIndexer.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十一章\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十一章\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十一章\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十一章\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.pdb

@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\lazyObjectInstantiation\lazyObjectInstantiation\bin\Debug\lazyObjectInstantiation.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\lazyObjectInstantiation\lazyObjectInstantiation\bin\Debug\lazyObjectInstantiation.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\lazyObjectInstantiation\lazyObjectInstantiation\bin\Debug\lazyObjectInstantiation.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\lazyObjectInstantiation\lazyObjectInstantiation\obj\Debug\lazyObjectInstantiation.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\lazyObjectInstantiation\lazyObjectInstantiation\obj\Debug\lazyObjectInstantiation.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\lazyObjectInstantiation\lazyObjectInstantiation\obj\Debug\lazyObjectInstantiation.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\lazyObjectInstantiation\lazyObjectInstantiation\obj\Debug\lazyObjectInstantiation.pdb

@@ -1,0 +1,6 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CommonSnappableTypes\CommonSnappableTypes\bin\Debug\CommonSnappableTypes.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CommonSnappableTypes\CommonSnappableTypes\bin\Debug\CommonSnappableTypes.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.pdb

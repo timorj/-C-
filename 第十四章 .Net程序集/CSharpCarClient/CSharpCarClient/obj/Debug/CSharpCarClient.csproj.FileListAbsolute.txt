@@ -1,0 +1,10 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpCarClient\CSharpCarClient\bin\Debug\CarLibrary.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpCarClient\CSharpCarClient\bin\Debug\CarLibrary.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.CopyComplete
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.pdb

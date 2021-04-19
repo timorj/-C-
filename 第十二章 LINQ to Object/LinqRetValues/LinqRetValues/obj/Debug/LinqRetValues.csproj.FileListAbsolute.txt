@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqRetValues\LinqRetValues\bin\Debug\LinqRetValues.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqRetValues\LinqRetValues\bin\Debug\LinqRetValues.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqRetValues\LinqRetValues\bin\Debug\LinqRetValues.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqRetValues\LinqRetValues\obj\Debug\LinqRetValues.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqRetValues\LinqRetValues\obj\Debug\LinqRetValues.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqRetValues\LinqRetValues\obj\Debug\LinqRetValues.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqRetValues\LinqRetValues\obj\Debug\LinqRetValues.pdb

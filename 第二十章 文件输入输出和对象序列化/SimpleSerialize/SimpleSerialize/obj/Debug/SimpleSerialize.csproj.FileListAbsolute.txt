@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\SimpleSerialize\SimpleSerialize\bin\Debug\SimpleSerialize.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\SimpleSerialize\SimpleSerialize\bin\Debug\SimpleSerialize.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\SimpleSerialize\SimpleSerialize\bin\Debug\SimpleSerialize.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\SimpleSerialize\SimpleSerialize\obj\Debug\SimpleSerialize.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\SimpleSerialize\SimpleSerialize\obj\Debug\SimpleSerialize.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\SimpleSerialize\SimpleSerialize\obj\Debug\SimpleSerialize.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\SimpleSerialize\SimpleSerialize\obj\Debug\SimpleSerialize.pdb

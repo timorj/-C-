@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\第十九章\ThreadStatus\ThreadStatus\bin\Debug\ThreadStatus.exe.config
+C:\Users\hands\source\repos\第十九章\ThreadStatus\ThreadStatus\bin\Debug\ThreadStatus.exe
+C:\Users\hands\source\repos\第十九章\ThreadStatus\ThreadStatus\bin\Debug\ThreadStatus.pdb
+C:\Users\hands\source\repos\第十九章\ThreadStatus\ThreadStatus\obj\Debug\ThreadStatus.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\第十九章\ThreadStatus\ThreadStatus\obj\Debug\ThreadStatus.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\第十九章\ThreadStatus\ThreadStatus\obj\Debug\ThreadStatus.exe
+C:\Users\hands\source\repos\第十九章\ThreadStatus\ThreadStatus\obj\Debug\ThreadStatus.pdb

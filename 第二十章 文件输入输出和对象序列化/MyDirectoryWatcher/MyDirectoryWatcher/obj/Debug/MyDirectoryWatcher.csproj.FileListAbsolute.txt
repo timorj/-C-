@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\MyDirectoryWatcher\MyDirectoryWatcher\bin\Debug\MyDirectoryWatcher.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\MyDirectoryWatcher\MyDirectoryWatcher\bin\Debug\MyDirectoryWatcher.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\MyDirectoryWatcher\MyDirectoryWatcher\bin\Debug\MyDirectoryWatcher.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\MyDirectoryWatcher.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\MyDirectoryWatcher.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\MyDirectoryWatcher.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十章\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\MyDirectoryWatcher.pdb

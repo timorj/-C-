@@ -1,0 +1,6 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.pdb

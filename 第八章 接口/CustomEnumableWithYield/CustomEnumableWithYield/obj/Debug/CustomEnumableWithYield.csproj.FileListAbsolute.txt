@@ -1,0 +1,6 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomEnumableWithYield\CustomEnumableWithYield\bin\Debug\CustomEnumableWithYield.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomEnumableWithYield\CustomEnumableWithYield\bin\Debug\CustomEnumableWithYield.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomEnumableWithYield\CustomEnumableWithYield\bin\Debug\CustomEnumableWithYield.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomEnumableWithYield\CustomEnumableWithYield\obj\Debug\CustomEnumableWithYield.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomEnumableWithYield\CustomEnumableWithYield\obj\Debug\CustomEnumableWithYield.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomEnumableWithYield\CustomEnumableWithYield\obj\Debug\CustomEnumableWithYield.pdb

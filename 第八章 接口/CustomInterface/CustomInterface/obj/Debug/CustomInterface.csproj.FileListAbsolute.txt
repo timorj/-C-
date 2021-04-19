@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomInterface\CustomInterface\bin\Debug\CustomInterface.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomInterface\CustomInterface\bin\Debug\CustomInterface.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomInterface\CustomInterface\bin\Debug\CustomInterface.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomInterface\CustomInterface\obj\Debug\CustomInterface.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomInterface\CustomInterface\obj\Debug\CustomInterface.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomInterface\CustomInterface\obj\Debug\CustomInterface.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第八章\CustomInterface\CustomInterface\obj\Debug\CustomInterface.pdb

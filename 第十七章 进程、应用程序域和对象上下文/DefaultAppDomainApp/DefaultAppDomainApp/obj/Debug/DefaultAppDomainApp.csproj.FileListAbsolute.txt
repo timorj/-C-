@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十七章\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.csprojAssemblyReference.cache

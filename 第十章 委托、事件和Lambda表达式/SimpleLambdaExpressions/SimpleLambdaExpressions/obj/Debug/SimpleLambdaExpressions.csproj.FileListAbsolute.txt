@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.csprojAssemblyReference.cache

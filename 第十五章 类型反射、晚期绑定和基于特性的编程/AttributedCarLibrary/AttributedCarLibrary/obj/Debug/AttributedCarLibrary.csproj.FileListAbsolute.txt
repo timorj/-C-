@@ -1,0 +1,6 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\AttributedCarLibrary\AttributedCarLibrary\bin\Debug\AttributedCarLibrary.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\AttributedCarLibrary\AttributedCarLibrary\bin\Debug\AttributedCarLibrary.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第十四章\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.pdb

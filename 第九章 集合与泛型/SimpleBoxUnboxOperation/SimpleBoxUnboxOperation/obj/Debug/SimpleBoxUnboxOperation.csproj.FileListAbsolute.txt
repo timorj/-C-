@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\SimpleBoxUnboxOperation\SimpleBoxUnboxOperation\bin\Debug\SimpleBoxUnboxOperation.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\SimpleBoxUnboxOperation\SimpleBoxUnboxOperation\bin\Debug\SimpleBoxUnboxOperation.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\SimpleBoxUnboxOperation\SimpleBoxUnboxOperation\bin\Debug\SimpleBoxUnboxOperation.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\SimpleBoxUnboxOperation\SimpleBoxUnboxOperation\obj\Debug\SimpleBoxUnboxOperation.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\SimpleBoxUnboxOperation\SimpleBoxUnboxOperation\obj\Debug\SimpleBoxUnboxOperation.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\SimpleBoxUnboxOperation\SimpleBoxUnboxOperation\obj\Debug\SimpleBoxUnboxOperation.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\SimpleBoxUnboxOperation\SimpleBoxUnboxOperation\obj\Debug\SimpleBoxUnboxOperation.pdb

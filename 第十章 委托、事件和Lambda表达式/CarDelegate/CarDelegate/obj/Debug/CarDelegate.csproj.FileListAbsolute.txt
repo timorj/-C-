@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarDelegate\CarDelegate\bin\Debug\CarDelegate.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarDelegate\CarDelegate\bin\Debug\CarDelegate.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarDelegate\CarDelegate\bin\Debug\CarDelegate.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarDelegate\CarDelegate\obj\Debug\CarDelegate.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarDelegate\CarDelegate\obj\Debug\CarDelegate.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarDelegate\CarDelegate\obj\Debug\CarDelegate.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarDelegate\CarDelegate\obj\Debug\CarDelegate.pdb

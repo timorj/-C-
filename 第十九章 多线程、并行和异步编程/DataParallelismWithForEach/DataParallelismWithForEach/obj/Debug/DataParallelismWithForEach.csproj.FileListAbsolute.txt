@@ -1,0 +1,10 @@
+C:\Users\hands\source\repos\第十九章\DataParallelismWithForEach\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe.config
+C:\Users\hands\source\repos\第十九章\DataParallelismWithForEach\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe
+C:\Users\hands\source\repos\第十九章\DataParallelismWithForEach\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.pdb
+C:\Users\hands\source\repos\第十九章\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\第十九章\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.MainForm.resources
+C:\Users\hands\source\repos\第十九章\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.Properties.Resources.resources
+C:\Users\hands\source\repos\第十九章\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csproj.GenerateResource.cache
+C:\Users\hands\source\repos\第十九章\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\第十九章\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.exe
+C:\Users\hands\source\repos\第十九章\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.pdb

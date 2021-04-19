@@ -1,0 +1,6 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\GenericPoints\GenericPoints\obj\Debug\GenericPoints.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\GenericPoints\GenericPoints\bin\Debug\GenericPoints.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\GenericPoints\GenericPoints\bin\Debug\GenericPoints.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\GenericPoints\GenericPoints\bin\Debug\GenericPoints.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\GenericPoints\GenericPoints\obj\Debug\GenericPoints.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第九章\GenericPoints\GenericPoints\obj\Debug\GenericPoints.pdb

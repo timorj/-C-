@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqGrammerTest\LinqGrammerTest\obj\Debug\LinqGrammerTest.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqGrammerTest\LinqGrammerTest\obj\Debug\LinqGrammerTest.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqGrammerTest\LinqGrammerTest\bin\Debug\LinqGrammerTest.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqGrammerTest\LinqGrammerTest\bin\Debug\LinqGrammerTest.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqGrammerTest\LinqGrammerTest\bin\Debug\LinqGrammerTest.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqGrammerTest\LinqGrammerTest\obj\Debug\LinqGrammerTest.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqGrammerTest\LinqGrammerTest\obj\Debug\LinqGrammerTest.pdb

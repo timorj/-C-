@@ -1,0 +1,14 @@
+C:\Users\hands\source\repos\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe.config
+C:\Users\hands\source\repos\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe
+C:\Users\hands\source\repos\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.pdb
+C:\Users\hands\source\repos\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.exe
+C:\Users\hands\source\repos\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十三章\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.pdb

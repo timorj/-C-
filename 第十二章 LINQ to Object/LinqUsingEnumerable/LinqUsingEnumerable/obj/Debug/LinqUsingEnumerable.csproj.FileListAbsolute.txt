@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十二章\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.pdb

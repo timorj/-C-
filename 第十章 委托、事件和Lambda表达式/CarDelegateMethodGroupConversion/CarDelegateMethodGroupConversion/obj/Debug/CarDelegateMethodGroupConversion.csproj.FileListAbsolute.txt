@@ -1,0 +1,6 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarDelegateMethodGroupConversion\CarDelegateMethodGroupConversion\bin\Debug\CarDelegateMethodGroupConversion.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarDelegateMethodGroupConversion\CarDelegateMethodGroupConversion\bin\Debug\CarDelegateMethodGroupConversion.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarDelegateMethodGroupConversion\CarDelegateMethodGroupConversion\bin\Debug\CarDelegateMethodGroupConversion.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarDelegateMethodGroupConversion\CarDelegateMethodGroupConversion\obj\Debug\CarDelegateMethodGroupConversion.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarDelegateMethodGroupConversion\CarDelegateMethodGroupConversion\obj\Debug\CarDelegateMethodGroupConversion.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\CarDelegateMethodGroupConversion\CarDelegateMethodGroupConversion\obj\Debug\CarDelegateMethodGroupConversion.pdb

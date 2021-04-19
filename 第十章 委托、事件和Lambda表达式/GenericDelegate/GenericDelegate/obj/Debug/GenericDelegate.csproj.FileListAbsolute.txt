@@ -1,0 +1,6 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第十章\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb

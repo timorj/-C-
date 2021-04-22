@@ -1,0 +1,10 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\DataGridViewDataDesigner\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\DataGridViewDataDesigner\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\DataGridViewDataDesigner\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\DataGridViewDataDesigner\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\DataGridViewDataDesigner\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.MainForm.resources
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\DataGridViewDataDesigner\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.Properties.Resources.resources
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\DataGridViewDataDesigner\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.csproj.GenerateResource.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\DataGridViewDataDesigner\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\DataGridViewDataDesigner\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\DataGridViewDataDesigner\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.pdb

@@ -1,0 +1,10 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\WindowsFormsDataBinding\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\WindowsFormsDataBinding\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\WindowsFormsDataBinding\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.MainForm.resources
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.Properties.Resources.resources
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.csproj.GenerateResource.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.pdb

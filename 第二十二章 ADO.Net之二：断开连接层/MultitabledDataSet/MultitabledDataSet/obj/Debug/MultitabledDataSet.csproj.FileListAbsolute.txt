@@ -1,0 +1,10 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\MultitabledDataSet\MultitabledDataSet\bin\Debug\MultitabledDataSet.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\MultitabledDataSet\MultitabledDataSet\bin\Debug\MultitabledDataSet.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\MultitabledDataSet\MultitabledDataSet\bin\Debug\MultitabledDataSet.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\MultitabledDataSet\MultitabledDataSet\obj\Debug\MultitabledDataSet.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\MultitabledDataSet\MultitabledDataSet\obj\Debug\MultitabledDataSet.MainForm.resources
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\MultitabledDataSet\MultitabledDataSet\obj\Debug\MultitabledDataSet.Properties.Resources.resources
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\MultitabledDataSet\MultitabledDataSet\obj\Debug\MultitabledDataSet.csproj.GenerateResource.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\MultitabledDataSet\MultitabledDataSet\obj\Debug\MultitabledDataSet.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\MultitabledDataSet\MultitabledDataSet\obj\Debug\MultitabledDataSet.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\MultitabledDataSet\MultitabledDataSet\obj\Debug\MultitabledDataSet.pdb

@@ -1,0 +1,13 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\InventoryDALDisconnectedGUI\InventoryDALDisconnectedGUI\bin\Debug\InventoryDALDisconnectedGUI.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\InventoryDALDisconnectedGUI\InventoryDALDisconnectedGUI\bin\Debug\InventoryDALDisconnectedGUI.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\InventoryDALDisconnectedGUI\InventoryDALDisconnectedGUI\bin\Debug\InventoryDALDisconnectedGUI.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\InventoryDALDisconnectedGUI\InventoryDALDisconnectedGUI\bin\Debug\AutoLotDataAccessLayer.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\InventoryDALDisconnectedGUI\InventoryDALDisconnectedGUI\bin\Debug\AutoLotDataAccessLayer.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\InventoryDALDisconnectedGUI\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\InventoryDALDisconnectedGUI\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.MainForm.resources
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\InventoryDALDisconnectedGUI\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.Properties.Resources.resources
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\InventoryDALDisconnectedGUI\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.csproj.GenerateResource.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\InventoryDALDisconnectedGUI\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\InventoryDALDisconnectedGUI\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.csproj.CopyComplete
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\InventoryDALDisconnectedGUI\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\InventoryDALDisconnectedGUI\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.pdb

@@ -1,0 +1,18 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AutoLotDataAccessLayer\AutoLotDataAccessLayer\bin\Debug\AutoLotDataAccessLayer.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AutoLotDataAccessLayer\AutoLotDataAccessLayer\bin\Debug\AutoLotDataAccessLayer.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AutoLotDataAccessLayer\AutoLotDataAccessLayer\obj\Debug\AutoLotDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AutoLotDataAccessLayer\AutoLotDataAccessLayer\obj\Debug\AutoLotDataAccessLayer.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AutoLotDataAccessLayer\AutoLotDataAccessLayer\obj\Debug\AutoLotDataAccessLayer.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十一章\AutoLotDataAccessLayer\AutoLotDataAccessLayer\obj\Debug\AutoLotDataAccessLayer.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\AutoLotDAL(Version Two)\AutoLotDataAccessLayer\bin\Debug\AutoLotDataAccessLayer.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\AutoLotDAL(Version Two)\AutoLotDataAccessLayer\bin\Debug\AutoLotDataAccessLayer.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\AutoLotDAL(Version Two)\AutoLotDataAccessLayer\obj\Debug\AutoLotDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\AutoLotDAL(Version Two)\AutoLotDataAccessLayer\obj\Debug\AutoLotDataAccessLayer.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\AutoLotDAL(Version Two)\AutoLotDataAccessLayer\obj\Debug\AutoLotDataAccessLayer.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\AutoLotDAL(Version Three)\AutoLotDataAccessLayer\bin\Debug\AutoLotDataAccessLayer.dll.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\AutoLotDAL(Version Three)\AutoLotDataAccessLayer\bin\Debug\AutoLotDataAccessLayer.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\AutoLotDAL(Version Three)\AutoLotDataAccessLayer\bin\Debug\AutoLotDataAccessLayer.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\AutoLotDAL(Version Three)\AutoLotDataAccessLayer\obj\Debug\AutoLotDataAccessLayer.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\AutoLotDAL(Version Three)\AutoLotDataAccessLayer\obj\Debug\AutoLotDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\AutoLotDAL(Version Three)\AutoLotDataAccessLayer\obj\Debug\AutoLotDataAccessLayer.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章\AutoLotDAL(Version Three)\AutoLotDataAccessLayer\obj\Debug\AutoLotDataAccessLayer.pdb

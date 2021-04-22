@@ -1,0 +1,7 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\SimpleDataSet\SimpleDataSet\bin\Debug\SimpleDataSet.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\SimpleDataSet\SimpleDataSet\bin\Debug\SimpleDataSet.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\SimpleDataSet\SimpleDataSet\bin\Debug\SimpleDataSet.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\SimpleDataSet\SimpleDataSet\obj\Debug\SimpleDataSet.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\SimpleDataSet\SimpleDataSet\obj\Debug\SimpleDataSet.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\SimpleDataSet\SimpleDataSet\obj\Debug\SimpleDataSet.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\SimpleDataSet\SimpleDataSet\obj\Debug\SimpleDataSet.pdb

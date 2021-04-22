@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AutoLotModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cutstomer">
+    <Key>
+      <PropertyRef Name="CustID" />
+    </Key>
+    <Property Name="CustID" Type="Int32" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Orders" Relationship="AutoLotModel.FK_Orders_Cutstomers" FromRole="Cutstomer" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Inventory">
+    <Key>
+      <PropertyRef Name="CarID" />
+    </Key>
+    <Property Name="CarID" Type="Int32" Nullable="false" />
+    <Property Name="Make" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Color" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PetName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Orders" Relationship="AutoLotModel.FK_Orders_Inventory" FromRole="Inventory" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="Int32" Nullable="false" />
+    <Property Name="CustID" Type="Int32" />
+    <Property Name="CarID" Type="Int32" />
+    <NavigationProperty Name="Cutstomer" Relationship="AutoLotModel.FK_Orders_Cutstomers" FromRole="Order" ToRole="Cutstomer" />
+    <NavigationProperty Name="Inventory" Relationship="AutoLotModel.FK_Orders_Inventory" FromRole="Order" ToRole="Inventory" />
+  </EntityType>
+  <EntityContainer Name="AutoLotEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cutstomers" EntityType="Self.Cutstomer" />
+    <EntitySet Name="Inventories" EntityType="Self.Inventory" />
+    <EntitySet Name="Orders" EntityType="Self.Order" />
+    <FunctionImport Name="GetPetName">
+      <Parameter Name="carID" Mode="In" Type="Int32" />
+      <Parameter Name="petName" Mode="InOut" Type="String" />
+    </FunctionImport>
+    <EntitySet Name="sysdiagrams" EntityType="AutoLotModel.sysdiagram" />
+    <AssociationSet Name="FK_Orders_Cutstomers" Association="AutoLotModel.FK_Orders_Cutstomers">
+      <End Role="Cutstomer" EntitySet="Cutstomers" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Orders_Inventory" Association="AutoLotModel.FK_Orders_Inventory">
+      <End Role="Inventory" EntitySet="Inventories" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Orders_Cutstomers">
+    <End Type="AutoLotModel.Cutstomer" Role="Cutstomer" Multiplicity="0..1" />
+    <End Type="AutoLotModel.Order" Role="Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cutstomer">
+        <PropertyRef Name="CustID" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="CustID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Orders_Inventory">
+    <End Type="AutoLotModel.Inventory" Role="Inventory" Multiplicity="0..1" />
+    <End Type="AutoLotModel.Order" Role="Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Inventory">
+        <PropertyRef Name="CarID" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="CarID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

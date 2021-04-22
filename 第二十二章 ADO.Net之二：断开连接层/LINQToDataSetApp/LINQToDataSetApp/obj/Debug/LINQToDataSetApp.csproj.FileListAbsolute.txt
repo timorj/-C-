@@ -1,0 +1,11 @@
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\LINQToDataSetApp\LINQToDataSetApp\bin\Debug\LINQToDataSetApp.exe.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\LINQToDataSetApp\LINQToDataSetApp\bin\Debug\LINQToDataSetApp.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\LINQToDataSetApp\LINQToDataSetApp\bin\Debug\LINQToDataSetApp.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\LINQToDataSetApp\LINQToDataSetApp\bin\Debug\AutoLotDataAccessLayer.dll
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\LINQToDataSetApp\LINQToDataSetApp\bin\Debug\AutoLotDataAccessLayer.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\LINQToDataSetApp\LINQToDataSetApp\bin\Debug\AutoLotDataAccessLayer.dll.config
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\LINQToDataSetApp\LINQToDataSetApp\obj\Debug\LINQToDataSetApp.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\LINQToDataSetApp\LINQToDataSetApp\obj\Debug\LINQToDataSetApp.csproj.CopyComplete
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\LINQToDataSetApp\LINQToDataSetApp\obj\Debug\LINQToDataSetApp.exe
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\LINQToDataSetApp\LINQToDataSetApp\obj\Debug\LINQToDataSetApp.pdb
+C:\Users\hands\source\repos\精通CSharp第六版\第二十二章 ADO.Net之二：断开连接层\LINQToDataSetApp\LINQToDataSetApp\obj\Debug\LINQToDataSetApp.csprojAssemblyReference.cache
